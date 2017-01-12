@@ -11,7 +11,7 @@ import java.io.IOException;
  * Created by huangmao on 2016/9/14.
  */
 public class Run {
-    public static void main(String[] argx){
+    public static void main(String[] args){
         try {
             SAXParserFactory parserFactory = SAXParserFactory.newInstance();
             SAXParser parser = parserFactory.newSAXParser();
